@@ -46,5 +46,11 @@
         "amount": 100.0,
         "category": "testing",
         "date": "2026-07-31"
+    },
+    {
+        "title": "Test Expense",
+        "amount": 100.0,
+        "category": "testing",
+        "date": "2026-07-31"
     }
 ]

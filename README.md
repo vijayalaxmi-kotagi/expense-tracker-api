@@ -51,7 +51,7 @@ venv\Scripts\activate
 Install dependencies
 
 ```bash
-pip install fastapi uvicorn pydantic
+pip install -r requirements.txt
 ```
 
 ## Run the Server
