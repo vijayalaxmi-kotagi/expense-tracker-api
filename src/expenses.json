@@ -1,0 +1,50 @@
+[
+    {
+        "title": "idli",
+        "amount": 70.0,
+        "category": "food",
+        "date": "2026-07-31"
+    },
+    {
+        "title": "dosa",
+        "amount": 90.0,
+        "category": "food",
+        "date": "2026-07-31"
+    },
+    {
+        "title": "buns",
+        "amount": 120.0,
+        "category": "food",
+        "date": "2026-07-31"
+    },
+    {
+        "title": "bus",
+        "amount": 800.0,
+        "category": "travel",
+        "date": "2026-07-31"
+    },
+    {
+        "title": "uber",
+        "amount": 800.0,
+        "category": "travel",
+        "date": "2026-07-31"
+    },
+    {
+        "title": "netflix",
+        "amount": 400.0,
+        "category": "entertainment",
+        "date": "2026-07-31"
+    },
+    {
+        "title": "movie",
+        "amount": 400.0,
+        "category": "entertainment",
+        "date": "2026-07-31"
+    },
+    {
+        "title": "Test Expense",
+        "amount": 100.0,
+        "category": "testing",
+        "date": "2026-07-31"
+    }
+]
